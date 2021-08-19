@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 /**
  * Eg:
  * 
@@ -104,4 +103,4 @@ const Toast = new (function () {
 })();
 
 window.Toast = Toast; // declare globally
-module.exports.Toast = Toast;
+module.exports = Toast;
