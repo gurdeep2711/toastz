@@ -1,0 +1,22 @@
+{
+  "name": "toastz",
+  "version": "1.0.0",
+  "description": "Very light simple toast package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurdeep2711/toastz.git"
+  },
+  "keywords": [
+    "toast"
+  ],
+  "author": "Gurdeep Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gurdeep2711/toastz/issues"
+  },
+  "homepage": "https://github.com/gurdeep2711/toastz#readme"
+}
